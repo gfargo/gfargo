@@ -2,9 +2,9 @@
 
 Building open-source from Vermont — where the WiFi is spotty but the commit history is clean.
 
-Artist and engineer making tools that help devs ship faster, work smarter, and maintain the flow. I come from a background in Video Game & Interactive Media — which means I think a lot about flow, feedback, and systems. These days that perspective drives how I build developer tools: powerful, polished, and practical.
+Artist and engineer making tools that help devs ship faster, work smarter, and maintain the flow. I come from a background in Video Game & Interactive Media — which means I think a lot about flow, feedback, and systems. These days that perspective drives how I approach developer tools: powerful, polished, and practical.
 
-Building in the open since 2013.
+Shipping open-source since 2013.
 
 ---
 
