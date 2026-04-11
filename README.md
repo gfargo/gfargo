@@ -1,8 +1,8 @@
 # Hey, I'm Griffen 👋
 
-Artist and engineer building tools that help devs ship faster, work smarter, and maintain the flow.
+I'm a human developer — mass-produced commit messages notwithstanding.
 
-I come from a background in Video Game & Interactive Media — which means I think a lot about flow, feedback, and systems. These days that perspective drives how I build developer tools: powerful, polished, and practical.
+Artist and engineer building tools that help devs ship faster, work smarter, and maintain the flow. I come from a background in Video Game & Interactive Media — which means I think a lot about flow, feedback, and systems. These days that perspective drives how I build developer tools: powerful, polished, and practical.
 
 Vermont-based. Building in the open since 2013.
 
@@ -41,6 +41,8 @@ Also: **[digi-rain](https://github.com/gfargo/digi-rain)** (digital rain for you
 ### 🎵 Music & Creative
 
 - **[tune.observer](https://github.com/gfargo/tune.observer)** — Web app to identify notes, pitch, and BPM via your microphone. Real-time, browser-based.
+- **[Handpan Pattern Studio](https://handpan-pattern-studio.griffen.codes/)** — Compose handpan rhythms with multi-layer support, pro audio effects, and WAV export.
+- **[Fretboard Mastery](https://fretboard-mastery.griffen.codes/)** — Interactive guitar learning system with scale visualization, CAGED system, and gamified challenges.
 - **[Lights Pi](https://github.com/gfargo/lights-pi)** — Professional studio lighting control for Raspberry Pi with QLC+.
 
 ---
