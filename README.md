@@ -1,10 +1,8 @@
 # Hey, I'm Griffen 👋
 
-Building open-source from Vermont — where the WiFi is spotty but the commit history is clean.
+Artist and engineer shipping open-source from Vermont — where the WiFi is spotty but the commit history is clean. I come from a background in Video Game & Interactive Media, which taught me to think about flow, feedback, and systems. That perspective drives everything I build: powerful, polished, and practical tools that help devs ship faster and stay in the flow.
 
-Artist and engineer making tools that help devs ship faster, work smarter, and maintain the flow. I come from a background in Video Game & Interactive Media — which means I think a lot about flow, feedback, and systems. These days that perspective drives how I approach developer tools: powerful, polished, and practical.
-
-Shipping open-source since 2013.
+At it since 2013.
 
 ---
 
