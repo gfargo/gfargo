@@ -15,21 +15,27 @@ At it since 2013.
 - **[Spec Shaver](https://github.com/gfargo/spec-shaver)** — Trim and curate OpenAPI specs via interactive wizard or programmatically.
 - **[git-scenarios](https://www.npmjs.com/package/@gfargo/git-scenarios)** — Composable atoms for spinning up real git repos in any state — merge conflicts, multi-contributor history, in-progress operations. For tests, demos, and tool development.
 - **[humble-bundle-keys](https://humble-bundle-keys.griffen.codes/)** — Pull every Steam key out of your Humble Bundle account into a single CSV.
+- **[Daybook](https://daybook.griffen.codes/)** — Self-hosted crypto wallet auditing and tax reporting CLI. Form 8949, Schedule D, TXF, and cost-basis tracking across 12+ exchanges and chains.
+- **[Buoy](https://github.com/gfargo/buoy)** — Lightweight per-node system dashboard for homelabs. Auto-discovers Docker services, shows vitals, links up with peer nodes for a fleet view.
+- **[git-rewrite](https://github.com/gfargo/git-rewrite)** — Bulk-rewrite git commit history: messages, authors, emails, dates, and more.
+- **[mrgitclean](https://github.com/gfargo/mrgitclean)** — A friendly CLI for cleaning up merged git branches, local and remote.
+- **[pironman5-oled](https://github.com/gfargo/pironman5-oled)** — Custom OLED display pages for the [Pironman5 MAX case](https://amzn.to/3V6KlEc) — info screens, animated screensavers, homelab service integrations.
 
 ### 📦 Libraries & DX
 
 - **[Fargo Flags](https://flags.griffen.codes/)** — A DX-focused layer for Vercel's Flags SDK with registry distribution and CLI tooling.
 - **[Feature Lock](https://feature-lock.griffen.codes/)** — Upgrade-ready UI building blocks that blur, tease, and convert — without breaking flow.
 - **[Fargo Comments](https://comments.griffen.codes/)** — React commenting system with Lexical editor. Batteries not included — bring your own storage and auth.
-- **[ink-enhanced-select-input](https://npmjs.com/package/ink-enhanced-select-input)** — Feature-rich select input for Ink with multi-select, live search, headless hook, vim keys, and more.
+- **[ink-enhanced-select-input](https://github.com/gfargo/ink-enhanced-select-input)** — Feature-rich select input for Ink with multi-select, live search, headless hook, vim keys, and more.
 - **[TokenTally](https://tokentally.griffen.codes/)** — Universal LLM cost calculator, pricing dashboard, and API. Zero API costs to use.
 - **[Placeholder.svg](https://placeholder.griffen.codes/)** — Easy custom SVG placeholder generation.
-- **[SVG Path Editor](https://svg-editor.griffen.codes/)** — In-browser SVG path editor with AI path generation. Give it a try 🚀
+- **[Subpath](https://subpath.dev/)** — Local-first SVG path editor for browser and desktop, with AI path generation. Give it a try 🚀
 - **[Git Hash Art](https://github.com/gfargo/git-hash-art)** — Deterministic abstract art from git commit hashes via Node & Canvas.
 
 ### 🤖 AI & Skills
 
-- **[Demos MCP](https://mcp.demos.tech)** — MCP server exposing the Anti-Authoritarian Toolkit, web search, and scraping for civic-tech AI agents.
+- **[PixelKiln](https://pixelkiln.griffen.codes/)** — Manifest-driven pixel-art generation with human review, provenance, recovery, and game-ready sprite/tileset packaging.
+- **[skills](https://github.com/gfargo/skills)** — Personal skills marketplace for Claude Code — add it once, install any plugin for terminal, devops, and whatever else comes up.
 - **[TUI Design Skill](https://github.com/gfargo/tui-design-skill)** — A Claude Skill for designing clean, professional, minimal terminal UIs across Go, Rust, Python, and TypeScript.
 
 ### 🕹️ Terminal Arcade
